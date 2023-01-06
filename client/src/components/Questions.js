@@ -12,7 +12,7 @@ const Questions = () => {
     
     function onSelect(){
         // setChecked(true);
-      console.log('radio button change');  
+      // console.log('radio button change');  
     }
   return (
     <div className='questions'>
